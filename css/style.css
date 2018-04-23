@@ -1,0 +1,36 @@
+body { 	
+	background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%) fixed ; 
+	font-family:Arial, Verdana, sans-serif;
+	margin:auto;
+	width:80%; 
+}	
+
+.page {
+	max-width: 700px;
+	margin: auto;
+	padding: 10px 20px;
+}
+
+.page h1 {
+	color:black;
+	border-bottom-style: dashed;
+	border-bottom-color: white;
+	font-family:Georgia, "Times New Roman", serif;
+}
+
+.form-element {
+	overflow: hidden;
+	padding-bottom: 20px;
+}
+
+.form-element label {
+	font-weight: bold;
+	display: block;
+	padding-bottom: 10px;
+}
+
+.form-element .textbox {
+	display: block;
+	width: 100%;
+	padding: 5px;
+}
